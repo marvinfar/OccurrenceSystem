@@ -1,0 +1,4 @@
+Q:\MyProjects\CRM B2C-Projects\PL_Occurrence\Occurrence\Occurrence\obj\Debug\Occurrence.csproj.AssemblyReference.cache
+Q:\MyProjects\CRM B2C-Projects\PL_Occurrence\Occurrence\Occurrence\obj\Debug\Occurrence.csproj.CoreCompileInputs.cache
+Q:\MyProjects\CRM B2C-Projects\PL_Occurrence\Occurrence\Occurrence\obj\Debug\Occurrence.dll
+Q:\MyProjects\CRM B2C-Projects\PL_Occurrence\Occurrence\Occurrence\obj\Debug\Occurrence.pdb
