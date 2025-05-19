@@ -386,6 +386,16 @@ namespace Occurrence
                             break;
                     }
                 }
+                else
+                if (jsonParameterType == "Double")
+                {
+                    switch (actionParameter.Type)
+                    {
+                        case "InArgument(x:Double)":
+                            result = Convert.ToDouble(value);
+                            break;
+                    }
+                }
             }
             catch (Exception ex)
             {
